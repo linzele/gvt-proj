@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "lincoln-gvt-proj",
+    "lincoln-gvt-proj": "lincoln-gvt-proj"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
