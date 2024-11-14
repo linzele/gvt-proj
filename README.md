@@ -88,7 +88,7 @@ The Cloud Calculator is a web application built with React, Vite, and Firebase C
 
 ## Live Demo
 
-Experience the Cloud Calculator live: [Cloud Calculator](https://cloud-calculator.vercel.app/)
+Experience the Cloud Calculator live: [Cloud Calculator]([https://cloud-calculator.vercel.app/](https://lincoln-gvt-proj.web.app/))
 
 ## Firebase Setup
 
