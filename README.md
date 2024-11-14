@@ -1,7 +1,7 @@
 # Cloud Calculator 
 ## React + Vite + Firebase Cloud Functions (Bonus functions & styles! )
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://cloud-calculator.vercel.app/)
+[![Deployed on Firebase](https://img.shields.io/badge/Deployed%20on-Firebase-orange?style=for-the-badge&logo=firebase)](https://cloud-calculator-9f80f.web.app/)
 [![Built with Firebase](https://img.shields.io/badge/Built%20with-Firebase-FFCA28?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 
 The Cloud Calculator is a web application built with React, Vite, and Firebase Cloud Functions. It provides a user-friendly interface for performing complex calculations and storing results in the cloud.
@@ -111,3 +111,5 @@ Experience the Cloud Calculator live: [Cloud Calculator](https://cloud-calculato
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+
