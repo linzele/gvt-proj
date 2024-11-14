@@ -29,7 +29,7 @@ The Cloud Calculator is a web application built with React, Vite, and Firebase C
   - Firebase Firestore
   - Firebase Authentication
 - **Deployment**:
-  - Vercel
+  - Firebase Host
 
 ## Getting Started
 
